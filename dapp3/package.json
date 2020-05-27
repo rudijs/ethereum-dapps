@@ -1,0 +1,17 @@
+{
+  "name": "dapp3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eth-gas-reporter": "^0.2.17",
+    "solidity-coverage": "^0.7.5",
+    "truffle": "^5.1.27"
+  }
+}
